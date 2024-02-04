@@ -1,0 +1,54 @@
+.header {
+    background-color: lightblue;
+    display: flex;
+    flex-direction:row;
+  }
+  
+  .home {
+    margin-left: 100px;
+    text-align: center;
+  }
+
+  .logo {
+    margin: 25px;
+   border-radius: 10px;
+  }
+
+  .number {
+    text-decoration-color: black;
+    font-size: 25px;
+    margin-top: -10px;
+  }
+
+  .contact {
+    margin-left: 50px;
+    margin-top: -10px;
+  }
+
+  .contacts {
+    text-decoration: none;
+    font-size: 25px;
+   
+  }
+
+
+  .slide {
+   margin: 25px 100px ;
+   
+  }
+
+  .margin {
+    margin: 50px;
+    font-size: 25px;
+    align-items: center;
+  }
+
+  .link {
+    align-items: center;
+     margin-top: -10px;
+  }
+
+  .featurelist{
+    margin-left: 50px;
+    align-items: center;
+  }
